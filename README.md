@@ -8,7 +8,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJY0514%2Fhit-counter&count_bg=%238627FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<samp>I'm Jiyeon from 🇰🇷 Republic of Korea. I'm studying hard to be a **every thing!**. </samp>
+<samp>I'm Jiyeon from 🇰🇷 Republic of Korea.<br>
+I'm studying hard to be a **every thing!**. </samp>
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)
 [![Email](http://img.shields.io/badge/-jy287454@gmail.com-4885ed?style=flat-square&logo=gmail&link=mailto:jy287454@gmail.com)](mailto:jy287454@gmail.com)
