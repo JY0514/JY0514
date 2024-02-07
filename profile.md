@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=JY%20...&fontSize=90)
-
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=JY%20...&fontSize=90)
 </div>
 
 <!--내용 부분-->
@@ -83,12 +81,12 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 blog 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https:/only-jy.tistory.com">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="jy287454@gmail.com">
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
