@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_#332f2f&height=300&section=header&text=Hello%20🤗&desc=I'm%20Jiyeon%20:%20%29&fontSize=70&fontAlignY=50&descSize=20&descAlignY=58&animation=fadeIn)
 
-## Hi there ❗ <img src="./images/wave-hello.gif" height="30">
+## Hi there ❗   아직 수정중입니다 <img src="./images/wave-hello.gif" height="30">
 <img src="./images/profile.png" align="right" height="300
 "/>
 
