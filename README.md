@@ -16,9 +16,7 @@ I'm studying hard to be a **every thing!**. </samp>
 
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)
-<a href="https://github.com/JY0514/github-stats-transparent">
-![](https://raw.githubusercontent.com/JY0514/github-stats-transparent/output/generated/languages.svg)
-</a>
+
 
 
 <!--내용 부분-->
@@ -74,3 +72,4 @@ I'm studying hard to be a **every thing!**. </samp>
 </div>
 
 <br>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JY0514&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
