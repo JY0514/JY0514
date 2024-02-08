@@ -16,7 +16,8 @@ I'm studying hard to be a **every thing!**. </samp>
 
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)
-[![Email](http://img.shields.io/badge/-jy287454@gmail.com-4885ed?style=flat-square&logo=gmail&link=mailto:jy287454@gmail.com)](mailto:jy287454@gmail.com)
+![](https://raw.githubusercontent.com/JY0514/github-stats-transparent/output/generated/languages.svg)
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
