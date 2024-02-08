@@ -5,23 +5,24 @@
 <img src="./images/profile.png" align="right" height="300
 "/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJY0514%2Fhit-counter&count_bg=%238627FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJY0514%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)  
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jy287454@gmail.com"/>
 
 
 <samp>I'm Jiyeon from 🇰🇷 Republic of Korea.<br>
 I'm studying hard to be a **every thing!**. </samp>
+<br><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={JY0514})](https://solved.ac/{JY0514}) <img src="https://raw.githubusercontent.com/JY0514/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-<img src="https://raw.githubusercontent.com/JY0514/github-stats-transparent/output/generated/languages.svg" width="50%" />
-
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)
-
 
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+
+
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Flutter</title><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></svg>
 <!--   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp -->
@@ -44,10 +45,10 @@ I'm studying hard to be a **every thing!**. </samp>
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<-- <h3 align="center">📚 Studying 📚</h3>
 <div align="center">   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-</div>
+</div> -->
 
 <br>
 
