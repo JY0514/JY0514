@@ -72,4 +72,6 @@ I'm studying hard to be a **every thing!**. </samp>
 </div>
 
 <br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JY0514&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JY0514&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
