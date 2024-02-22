@@ -49,7 +49,8 @@ I'm studying hard to be a **every thing!**. </samp>
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JY0514&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JY0514&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JY0514&theme=dark&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JY0514&layout=donut&them=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
