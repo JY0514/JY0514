@@ -5,7 +5,7 @@
 <img src="./images/profile.png" align="right" height="300
 "/>
 
-![Profile views](https://komarev.com/ghpvc/?username=JY0514&style=flat-square)  [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)  
+![Profile views](https://komarev.com/ghpvc/?username=JY0514&style=flat-square)  [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com) <a href="https://instagram.com/only_jy2004">    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <samp>I'm Jiyeon from 🇰🇷 Republic of Korea.<br>
 I'm studying hard to be a **every thing!**. </samp>
