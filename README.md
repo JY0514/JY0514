@@ -1,11 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&width=1000&section=header&text=Hello%20🤗&desc=I'm%20Jiyeon%20:%20%29&fontSize=80&fontAlignY=50&descSize=25&descAlignY=63&animation=fadeIn)
 
-## Hi there ❗   아직 수정중입니다 <img src="./images/wave-hello.gif" height="30">
+## 고양이가 되고 싶은 평범한 직장인 <img src="./images/wave-hello.gif" height="30">
 <img src="./images/profile.png" align="right" height="300
 "/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJY0514%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)  
+![Profile views](https://komarev.com/ghpvc/?username=JY0514&style=flat-square)  [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)  
 
 <samp>I'm Jiyeon from 🇰🇷 Republic of Korea.<br>
 I'm studying hard to be a **every thing!**. </samp>
