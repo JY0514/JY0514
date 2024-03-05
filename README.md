@@ -54,11 +54,12 @@ I will leave this world someday..</samp>
 <!--   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp -->
 </div>
+
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JY0514&theme=dark&show_icons=true) 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JY0514&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JY0514&theme=dark&show_icons=true) 
+﻿![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JY0514&langs_count=10&layout=compact&theme=dark)
+ 
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JY0514&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
