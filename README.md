@@ -16,7 +16,7 @@ I will leave this world someday..</samp>
 
 <!--내용 부분-->
 
- <h3 align="left">📚 개발 경험 사항.. . 📚</h3>
+ <h3 align="left">📚 개발 경험 사항.. . 🛠🛠</h3>
 <div align="left">   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -50,8 +50,6 @@ I will leave this world someday..</samp>
 
 <br>
 
-<h3 align="left">🛠 Tools 🛠</h3>
-
 <div align="left">
 <!--   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp -->
@@ -59,7 +57,7 @@ I will leave this world someday..</samp>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JY0514&theme=dark&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JY0514&layout=donut&them=dark)](https://github.com/anuraghazra/github-readme-stats)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JY0514&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
 <br>
 
