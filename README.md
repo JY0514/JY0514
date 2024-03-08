@@ -2,10 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=_463e3e&height=300&width=1000&section=header&text=Hello%20🤗&desc=I'm%20Jiyeon%20:%20%29&fontSize=80&fontColor=FDFEFD&fontAlignY=50&descSize=25&descAlignY=63&animation=fadeIn)
 
 ## 고양이가 되고 싶은 평범한 직장인 <img src="./images/wave-hello.gif" height="30">
-<img src="./images/profile.png" align="right" height="300
-"/>
+<img src="./images/profile.png" align="right" height="300"/>
+
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://only-jy.tistory.com)](https://only-jy.tistory.com)
-![Profile views](https://komarev.com/ghpvc/?username=JY0514&style=flat-square)  
+![Profile views](https://komarev.com/ghpvc/?username=JY0514&style=flat-square)
 
 
 <samp>I'm Jiyeon from 🇰🇷 Republic of Korea.<br>
@@ -62,5 +62,5 @@ I will leave this world someday..</samp>
  
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JY0514&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JY0514&theme=high-contrast)](https://github.com/JY0514/github-readme-activity-graph)
 
